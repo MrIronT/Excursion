@@ -31,4 +31,8 @@ p {
     font-size: 21px;
     color: gray;
     text-align: center;
-    
+}
+
+#copyright {
+    text-align: right;
+}
